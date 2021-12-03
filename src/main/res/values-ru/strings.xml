@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="secret_pin_key">biometric_pin_encryption_key</string>
+
+    <string name="prompt_info_title">Вход в USM Task</string>
+    <string name="prompt_info_description">Отсканируйте отпечаток пальцев</string>
+    <string name="prompt_info_cancel">Отмена</string>
+
+
+    <string name="key_0">0</string>
+    <string name="key_1">1</string>
+    <string name="key_2">2</string>
+    <string name="key_3">3</string>
+    <string name="key_4">4</string>
+    <string name="key_5">5</string>
+    <string name="key_6">6</string>
+    <string name="key_7">7</string>
+    <string name="key_8">8</string>
+    <string name="key_9">9</string>
+
+    <string name="auth_enter_pin_title">Придумайте пин-код</string>
+    <string name="auth_enter_pin_subtitle">Он будет использоваться для\n входа в приложение.</string>
+    <string name="auth_re_enter_pin_title">Повторите пин-код</string>
+    <string name="auth_re_enter_pin_subtitle">Введите пин-код еще раз</string>
+    <string name="auth_help">Нужна помощь?</string>
+    <string name="auth_check_pin_title">Вход</string>
+    <string name="auth_check_pin_subtitle">Введите пин-код</string>
+
+    <string name="auth_bottom_sheets_help_title">Помощь</string>
+    <string name="auth_bottom_sheets_close">Закрыть</string>
+    <string name="auth_bottom_sheets_message_label">Напишите на</string>
+    <string name="auth_bottom_sheets_countries_title">Выбрать страну</string>
+
+    <string name="auth_email">support@usmtask.ru</string>
+    <string name="login_title">Авторизация</string>
+    <string name="login_subtitle">Введите свой номер телефона</string>
+    <string name="login_next">Далее</string>
+
+    <string name="confirm_sms_title">Подтверждение</string>
+    <string name="confirm_sms_subtitle">Введите код из SMS, отправленного на номер %s</string>
+
+    <string name="ok" translatable="false">OK</string>
+    <string name="error_pins_not_match">Введенные пин коды не совпадают</string>
+    <string name="auth_confirm_sms_help_text">Я не получил смс</string>
+    <string name="warning_unsafe_device">Используемое устройство не безопасно. Обратитесь в службу поддержки.</string>
+
+</resources>

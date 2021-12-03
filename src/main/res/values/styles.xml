@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="LoginKeyboard">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:fontFamily">@font/cc_roboto_regular</item>
+        <item name="android:textSize">34sp</item>
+        <item name="android:foreground">?selectableItemBackgroundBorderless</item>
+    </style>
+
+    <style name="ShapeAppearanceOverlay.Cut" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSizeTopRight">32dp</item>
+        <item name="cornerSizeTopLeft">32dp</item>
+    </style>
+</resources>
